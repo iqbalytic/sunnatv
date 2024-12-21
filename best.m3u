@@ -1,69 +1,81 @@
 #EXTM3U
-#EXTINF:-1, ANTV HD
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Sunnah",Rodja TV (720p) [Geo-blocked]
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Sunnah",Al-Iman TV (720p) [Geo-blocked]
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 group-title="Sunnah" tvg-logo="https://live.artvisi.or.id/logo/wesal.png",WESAL TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Nasional",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/512px-Trans_TV_2013.svg.png" group-title="Nasional",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="Nasional",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1, group-title="Nasional",ANTV HD
 https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8?enc=94IguEEN63prrxo20gZb6g&exp=1728583666&encp=KCyGcxTIJ2VpHn7VfQa7Lg&expp=1728594166
-#EXTINF:-1, Antara TV 
+#EXTINF:-1, group-title="Nasional",Antara TV 
 https://streaming.indihometv.com/atm/hlsv3/antara/playlist.m3u8?enc=wS3sLglmcacqG0NxnthTcQ&exp=1728583265&encp=20n0plvcOwGTPcJ25PDsQw&expp=1728593765
-#EXTINF:-1,ANTV
+#EXTINF:-1,group-title="Nasional",ANTV
 https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8?enc=_KGwyL2VO6R_wsemgjKw5Q&exp=1728582759&encp=Dnk8vvaQxKZ158A8UzuRKQ&expp=1728593259
-#EXTINF:-1,AllPlay Ent TV 
+#EXTINF:-1,group-title="Nasional",AllPlay Ent TV 
 https://streaming.indihometv.com/atm/hlsv3/useeprime/playlist.m3u8?enc=0ieltO0RhN_3LzKuf31fTQ&exp=1728582894&encp=u_dacfjJYS7flsiq5bV5sQ&expp=1728593394
-#EXTINF:-1,BTV TV
+#EXTINF:-1,group-title="Nasional",BTV TV
 https://streaming.indihometv.com/atm/hlsv3/beritasatu/playlist.m3u8?enc=FZfXZjMhLyu8EjtjBVPeqg&exp=1728583101&encp=VuE8AQZKX5cxxomQY4KRgA&expp=1728593601
-#EXTINF:-1,Bali TV
+#EXTINF:-1,group-title="Nasional",Bali TV
 https://streaming.indihometv.com/atm/hlsv3/balitv/playlist.m3u8?enc=WrPYu1rV54IYR86hFZ7upg&exp=1728583157&encp=lEogVQT1Y-vdwvmYkEkoXQ&expp=1728593657
-#EXTINF:-1,Daai TV
+#EXTINF:-1,group-title="Nasional",Daai TV
 https://streaming.indihometv.com/joss/134/daaitv/playlist.m3u8?enc=f6-PQRX2aeFzaoEp7xgT5g&exp=1728583185&encp=Cz8mDtiAGGvpUNNxnkNBPA&expp=1728593685
-#EXTINF:-1,FunPlanet TV 
+#EXTINF:-1,group-title="Nasional",FunPlanet TV 
 https://streaming.indihometv.com/atm/hlsv3/indikids/playlist.m3u8?enc=noPkQ8oOvzoMnoq5P-pl_Q&exp=1728583431&encp=DucAi5pGDP_JHVoNBWRFHA&expp=1728593931
-#EXTINF:-1,Indonesiana TV
+#EXTINF:-1,group-title="Nasional",Indonesiana TV
 https://streaming.indihometv.com/atm/hlsv3/indonesiana/playlist.m3u8?enc=iUUixj1v1aDkZXDfVSNChQ&exp=1728583311&encp=s4QqsaAJ80fyQtDUmUSmUA&expp=1728593811
-#EXTINF:-1,Indosiar
+#EXTINF:-1,group-title="Nasional",Indosiar
 https://streaming.indihometv.com/atm/hlsv3/indosiar/playlist.m3u8?enc=TrA1sHY6yDayZ4N3b_qDNA&exp=1728582822&encp=c0p1T8RH7U8kKkmQPJDZ_g&expp=1728593322
-#EXTINF:-1,Indosiar HD
+#EXTINF:-1,group-title="Nasional",Indosiar HD
 https://streaming.indihometv.com/atm/hlsv3/indosiar/playlist.m3u8?enc=7IYUZszwjp2oqpDChr7H1A&exp=1728583778&encp=GTURGwR4739USJ5oUEzBNg&expp=1728594278
-#EXTINF:-1,JTV
+#EXTINF:-1,group-title="Nasional",JTV
 https://streaming.indihometv.com/atm/hlsv3/jtv/playlist.m3u8?enc=ytl9Zg2eDqswa18sVND90A&exp=1728583042&encp=69x6r5d4-NTNXYXbGHAbJQ&expp=1728593542
-#EXTINF:-1,JakTV
+#EXTINF:-1,group-title="Nasional",JakTV
 https://streaming.indihometv.com/atm/hlsv3/JAK_TV/playlist.m3u8?enc=v7U57k1hzVnni43Qvxhn4Q&exp=1728583215&encp=-BPrFZRZKJOjMcbnAjSbjQ&expp=1728593715
-#EXTINF:-1,Jawa Pos TV
+#EXTINF:-1, group-title="Nasional",Jawa Pos TV
 https://streaming.indihometv.com/atm/hlsv3/jawapos/playlist.m3u8?enc=cQUMJQnoRymTwqfslFhsjw&exp=1728583286&encp=ukjBYsSw0kDVZYXoDrEtbg&expp=1728593786
-#EXTINF:-1,Kompas TV
+#EXTINF:-1, group-title="Nasional",Kompas TV
 https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8?enc=HCnDMQT1KA9azpBVyAEMrQ&exp=1728582925&encp=hO86sAwZC0w_7UDCVfJakQ&expp=1728593425
-#EXTINF:-1,Kompas TV HD
+#EXTINF:-1,group-title="Nasional",Kompas TV HD
 https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8?enc=60C8V49_-q2FU78q_0cj1A&exp=1728583537&encp=cy_KgMpgnXb_kgdMA3fCTQ&expp=1728594037
-#EXTINF:-1,Maxstream TV
+#EXTINF:-1,group-title="Nasional",Maxstream TV
 https://streaming.indihometv.com/joss/194/maxstream/playlist.m3u8?enc=1i9idjak_fJ6aOZ7fYdokQ&exp=1728583383&encp=zTHBZN_lLSEWLgsAjPxnQA&expp=1728593883
-#EXTINF:-1,Metro TV
+#EXTINF:-1,group-title="Nasional",Metro TV
 https://streaming.indihometv.com/atm/hlsv3/METRO_TV/playlist.m3u8?enc=NvOc4dxPc-AaTYomKk8wtQ&exp=1728583507&encp=0ZfHuwiIlueb8lgeCiZs_Q&expp=1728594007
-#EXTINF:-1,Nusantara TV
+#EXTINF:-1,group-title="Nasional",Nusantara TV
 https://streaming.indihometv.com/atm/hlsv3/nusantaratv/playlist.m3u8?enc=9widr7bepNwAhFQ_cAntKQ&exp=1728583238&encp=G_Wk7uT0Ba0LYWtNgBXVlg&expp=1728593738
-#EXTINF:-1,RRI NET TV 
+#EXTINF:-1,group-title="Nasional",RRI NET TV 
 https://streaming.indihometv.com/atm/hlsv3/RRI_NET_HD/playlist.m3u8?enc=V44AlG6GnE74GBorX72qFw&exp=1728583130&encp=78ywa4LnWhiBqCdFgM0bFA&expp=1728593630
-#EXTINF:-1,Rajawali TV
+#EXTINF:-1,group-title="Nasional",Rajawali TV
 https://streaming.indihometv.com/atm/hlsv3/RAJAWALI_TV/playlist.m3u8?enc=-esh18CU-1exP0nz2Oy0fA&exp=1728583010&encp=t39pza4u4v0wYSo-UYXcHA&expp=1728593510
-#EXTINF:-1,SCTV
+#EXTINF:-1,group-title="Nasional",SCTV
 https://streaming.indihometv.com/atm/hlsv3/sctv/playlist.m3u8?enc=XlxV-qA2eRvXeBbEN0wyfw&exp=1728582790&encp=bbyTJ7Ynv5ct2lUpWr7rlw&expp=1728593290
-#EXTINF:-1,SCTV HD
+#EXTINF:-1,group-title="Nasional",SCTV HD
 https://streaming.indihometv.com/atm/hlsv3/sctv/playlist.m3u8?enc=JBtaSN4FGh27XTJ4m--OHg&exp=1728583700&encp=ayl8-7SivJRBSe-LCvcMPA&expp=1728594200
-#EXTINF:-1,SEA Today TV 
+#EXTINF:-1,group-title="Nasional",SEA Today TV 
 https://streaming.indihometv.com/atm/hlsv3/seatoday/playlist.m3u8?enc=fycSMDYk_qNwQV_ZuAUV6Q&exp=1728583458&encp=ZqZmXZPB8YX4Ayh1ZSj6cQ&expp=1728593958
-#EXTINF:-1,SINDO News TV
+#EXTINF:-1,group-title="Nasional",SINDO News TV
 https://streaming.indihometv.com/atm/hlsv3/mncnews/playlist.m3u8?enc=7aJbOVzSMcdIji-WRqvlsg&exp=1728583070&encp=9n7O-wzN5CVe3IMKHJvw0w&expp=1728593570
-#EXTINF:-1,TV One
+#EXTINF:-1,group-title="Nasional",TV One
 https://streaming.indihometv.com/atm/hlsv3/tvone/playlist.m3u8?enc=6UDmHhFWjKTu3Iwx8-ycJw&exp=1728583488&encp=etNG_1pnHCRajO_xPvebrA&expp=1728593988
-#EXTINF:-1,TVRI HD
+#EXTINF:-1,group-title="Nasional",TVRI HD
 https://streaming.indihometv.com/atm/hlsv3/TVRI/playlist.m3u8?enc=MsCsCTf8y2aYkEpY1BC7Lw&exp=1728583570&encp=Nl2T4LK8owr_jeKbBpxhtg&expp=1728594070
-#EXTINF:-1,TVRI TV 
+#EXTINF:-1,group-title="Nasional",TVRI TV 
 https://streaming.indihometv.com/atm/hlsv3/TVRI/playlist.m3u8?enc=I2QiL83GvEiNQv3Sx7HhEw&exp=1728582990&encp=6ByX9bJFKzfG26qdFCB_5A&expp=1728593490
-#EXTINF:-1,Trans7
+#EXTINF:-1,group-title="Nasional",Trans7
 https://streaming.indihometv.com/atm/hlsv3/trans7/playlist.m3u8?enc=zDgWv5QlUmiZINBHixrVyw&exp=1728582728&encp=cFeZgxE1SGoKo227MKRMDQ&expp=1728593228
-#EXTINF:-1,Trans7 HD
+#EXTINF:-1,group-title="Nasional",Trans7 HD
 https://streaming.indihometv.com/atm/hlsv3/trans7/playlist.m3u8?enc=4cU-v-CId5niWy7FnM6aDw&exp=1728583753&encp=UZOJdiD-JhMjSohlx6IPZw&expp=1728594253
-#EXTINF:-1,TransTV
+#EXTINF:-1,group-title="Nasional",TransTV
 https://streaming.indihometv.com/atm/hlsv3/transtv/playlist.m3u8?enc=NTLCsxsvmwsgZBN9-SVtjg&exp=1728582669&encp=c2hIVYlbIPNcRLZj6XtXGw&expp=1728593169
-#EXTINF:-1,TransTV HD
+#EXTINF:-1,group-title="Nasional",TransTV HD
 https://streaming.indihometv.com/atm/hlsv3/transtv/playlist.m3u8?enc=3l_AR6SsROFkp_REfGkjyw&exp=1728583729&encp=pwOrV_v34KW5J_EwWB9qTw&expp=1728594229
-#EXTINF:-1,ZBioskop
+#EXTINF:-1,group-title="Nasional",ZBioskop
 https://streaming.indihometv.com/atm/hlsv3/zbioskop/playlist.m3u8?enc=TheCu5fYefai0ST0a9zb_w&exp=1728583603&encp=t58MOhg7vqWpCcibmKAdDA&expp=1728594103
-#EXTINF:-1,iNews TV 
+#EXTINF:-1,group-title="Nasional",iNews TV 
 https://streaming.indihometv.com/atm/hlsv3/inews/playlist.m3u8?enc=md_GHQ2hGgDPn5lXTNVv1A&exp=1728582949&encp=twVm4IEDrkZpc98EHK081g&expp=1728593449
