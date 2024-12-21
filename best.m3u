@@ -8,9 +8,9 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="Sunnah",MGI TV (720p) [Geo-blocked]
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ohs2WT.png" group-title="Sunnah",Al Quran Al Kareem (Mecca), Quran
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hnklH9.png" group-title="Sunnah",	Al Sunnah Nabawiyah (Madinah), Sunnah
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+https://ythls.armelin.one/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
 #EXTINF:-1 group-title="Sunnah" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV (Youtube)
 https://ythls.armelin.one/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
 #EXTINF:-1 group-title="Sunnah" tvg-logo="https://live.artvisi.or.id/logo/wesal.png",WESAL TV
