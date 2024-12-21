@@ -8,13 +8,11 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-id="MGITV.id" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="Sunnah",MGI TV (720p) [Geo-blocked]
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ohs2WT.png" group-title="Sunnah",Al Quran Al Kareem (Mecca), Quran
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/ksaquranpublish/ksaquran_480p/hdntl=exp=1734871529~acl=%2fksaquranlive%2fksaquran.smil%2f*~data=hdntl~hmac=40211c14b940b2e2090864979519b85fe642da79d77180f6db019aaae80bbeef/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7hnklH9.png" group-title="Sunnah",	Al Sunnah Nabawiyah (Madinah), Sunnah
 https://ythls.armelin.one/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
 #EXTINF:-1 group-title="Sunnah" tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAD TV (Youtube)
 https://ythls.armelin.one/channel/UCotIkyDFzztbSm21GNGsK9w.m3u8
-#EXTINF:-1 group-title="Sunnah" tvg-logo="https://live.artvisi.or.id/logo/wesal.png",WESAL TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 group-title="Sunnah" tvg-logo="https://live.artvisi.or.id/logo/wesal.png",WESAL TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 #EXTINF:-1 group-title="Sunnah" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/fatwatv.png",FATWA-TV
