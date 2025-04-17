@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Sunnah",Rodja TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Sunnah",Rodja TV (720p)
 https://rodjatv.com/rodjatv/live.m3u8
-#EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Sunnah",Al-Iman TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AlImanTV.id" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Sunnah",Al-Iman TV (720p)
 https://tv.aliman.id/aliman/live.m3u8
 #EXTINF:-1 group-title="Sunnah" tvg-logo="https://live.artvisi.or.id/logo/wesal.png",WESAL TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
